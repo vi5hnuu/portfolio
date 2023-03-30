@@ -14,23 +14,27 @@ function Services() {
         <ul className='service__list'>
           <li>
             <TbCheck className='check_icon' />
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. </p>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.Lorem ipsum dolor sit amet, consectetur adipiscing elit. </p>
           </li>
           <li>
             <TbCheck className='check_icon' />
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. </p>
-          </li><li>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.Lorem ipsum dolor sit amet, consectetur adipiscing elit. </p>
+          </li>
+          <li>
             <TbCheck className='check_icon' />
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. </p>
-          </li><li>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.Lorem ipsum dolor sit amet, consectetur adipiscing elit. </p>
+          </li>
+          <li>
             <TbCheck className='check_icon' />
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. </p>
-          </li><li>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.Lorem ipsum dolor sit amet, consectetur adipiscing elit. </p>
+          </li>
+          <li>
             <TbCheck className='check_icon' />
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. </p>
-          </li><li>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.Lorem ipsum dolor sit amet, consectetur adipiscing elit. </p>
+          </li>
+          <li>
             <TbCheck className='check_icon' />
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. </p>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.Lorem ipsum dolor sit amet, consectetur adipiscing elit. </p>
           </li>
         </ul>
       </article>
@@ -41,27 +45,27 @@ function Services() {
         <ul className='service__list'>
           <li>
             <TbCheck className='check_icon' />
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. </p>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.Lorem ipsum dolor sit amet, consectetur adipiscing elit. </p>
           </li>
           <li>
             <TbCheck className='check_icon' />
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. </p>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.Lorem ipsum dolor sit amet, consectetur adipiscing elit. </p>
           </li><li>
             <TbCheck className='check_icon' />
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. </p>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.Lorem ipsum dolor sit amet, consectetur adipiscing elit. </p>
           </li><li>
             <TbCheck className='check_icon' />
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. </p>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.Lorem ipsum dolor sit amet, consectetur adipiscing elit. </p>
           </li><li>
             <TbCheck className='check_icon' />
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. </p>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.Lorem ipsum dolor sit amet, consectetur adipiscing elit. </p>
           </li><li>
             <TbCheck className='check_icon' />
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. </p>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.Lorem ipsum dolor sit amet, consectetur adipiscing elit. </p>
           </li>
           <li>
             <TbCheck className='check_icon' />
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. </p>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.Lorem ipsum dolor sit amet, consectetur adipiscing elit. </p>
           </li>
         </ul>
       </article>
@@ -72,23 +76,23 @@ function Services() {
         <ul className='service__list'>
           <li>
             <TbCheck className='check_icon' />
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. </p>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.Lorem ipsum dolor sit amet, consectetur adipiscing elit. </p>
           </li>
           <li>
             <TbCheck className='check_icon' />
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. </p>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.Lorem ipsum dolor sit amet, consectetur adipiscing elit. </p>
           </li><li>
             <TbCheck className='check_icon' />
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. </p>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.Lorem ipsum dolor sit amet, consectetur adipiscing elit. </p>
           </li><li>
             <TbCheck className='check_icon' />
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. </p>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.Lorem ipsum dolor sit amet, consectetur adipiscing elit. </p>
           </li><li>
             <TbCheck className='check_icon' />
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. </p>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.Lorem ipsum dolor sit amet, consectetur adipiscing elit. </p>
           </li><li>
             <TbCheck className='check_icon' />
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. </p>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.Lorem ipsum dolor sit amet, consectetur adipiscing elit. </p>
           </li>
         </ul>
       </article>
